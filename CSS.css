@@ -5,10 +5,29 @@
     background-color: #00B649;
     color: #000000;
     position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    outline: none;
+    border: 3px solid black;
 }
 
 .product_logo{
     position: absolute;
     height: 250px;
     width: 250px;
+    border: 3px solid black;
+}
+
+.product_description{
+    position: absolute;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.product_gamejolt_btn{
+    position: absolute;
+    height: 50px;
+    width: 145px;
+    border: 3px solid black;
 }
